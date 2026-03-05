@@ -12,7 +12,7 @@ flags on the top right, and the number of mines on the top left. Once all the nu
 Easy:
   - 8x8 playing field
   - 10 mines  
-Medium:  
+Medium:
   - 14x15 playing field
   - 40 mines  
 Hard:
