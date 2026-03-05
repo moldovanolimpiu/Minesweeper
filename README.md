@@ -11,13 +11,16 @@ flags on the top right, and the number of mines on the top left. Once all the nu
 
 Easy:
   - 8x8 playing field
-  - 10 mines  
+  - 10 mines
+
 Medium:
   - 14x15 playing field
-  - 40 mines  
+  - 40 mines
+
 Hard:
   - 30 x 16 playing field
-  - 99 mines  
+  - 99 mines
+
 Custom:
   - up to 88x37 playing field (the numbers can go beyond, the limit, but it may look weird)
   - the number of tiles - 1 (so the field is not completely full of mines 
