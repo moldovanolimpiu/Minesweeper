@@ -17,7 +17,7 @@ Medium:
   - 40 mines  
 Hard:
   - 30 x 16 playing field
-  - 99 mines
+  - 99 mines  
 Custom:
   - up to 88x37 playing field (the numbers can go beyond, the limit, but it may look weird)
   - the number of tiles - 1 (so the field is not completely full of mines 
